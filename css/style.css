@@ -746,7 +746,3 @@ input {
 
 /* PLan Blocks */
 
-.plan__block {
-  display: flex;
-  flex-direction: row;
-}
